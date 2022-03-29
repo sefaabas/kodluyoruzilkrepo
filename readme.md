@@ -12,7 +12,8 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita quo a accusam
     <p>Molestiae temporibus repellendus nemo.</p>
     <p>Blanditiis deleniti expedita quaerat.</p>
 
-
+## License
+[MIT](https://github.com/sefaabas/kodluyoruzilkrepo/blob/master/LICENSE)
 
 
 
